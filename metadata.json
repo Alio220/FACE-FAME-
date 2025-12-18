@@ -1,0 +1,8 @@
+{
+  "name": "Face FAME Creative Studio",
+  "description": "Star in your own AI-generated videos, create stunning images, and chat with AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
